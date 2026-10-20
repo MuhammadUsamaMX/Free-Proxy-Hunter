@@ -1,0 +1,33 @@
+# sources registry — one per line: id<TAB>format<TAB>default_proto<TAB>urls (fallbacks space-separated)
+# formats: txt | geonode | proxyscrape | hproxy | mtproxy_json | mtproxy_txt
+azestkingscrown	txt		https://raw.githubusercontent.com/azestkingscrown/Free_Proxy_List/refs/heads/main/working_proxies.txt https://cdn.jsdelivr.net/gh/azestkingscrown/Free_Proxy_List@main/working_proxies.txt
+sunny9577	txt	http	https://sunny9577.github.io/proxy-scraper/proxies.txt https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/proxies.txt
+aliilapro_http	txt	http	https://raw.githubusercontent.com/ALIILAPRO/Proxy/main/http.txt https://cdn.jsdelivr.net/gh/ALIILAPRO/Proxy@main/http.txt
+aliilapro_socks4	txt	socks4	https://raw.githubusercontent.com/ALIILAPRO/Proxy/main/socks4.txt https://cdn.jsdelivr.net/gh/ALIILAPRO/Proxy@main/socks4.txt
+aliilapro_socks5	txt	socks5	https://raw.githubusercontent.com/ALIILAPRO/Proxy/main/socks5.txt https://cdn.jsdelivr.net/gh/ALIILAPRO/Proxy@main/socks5.txt
+proxio_all	txt	http	https://raw.githubusercontent.com/proxio-io/proxy-list/main/all.txt https://cdn.jsdelivr.net/gh/proxio-io/proxy-list@main/all.txt
+ercin_http	txt	http	https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/http.txt https://cdn.jsdelivr.net/gh/ErcinDedeoglu/proxies@main/proxies/http.txt
+ercin_https	txt	https	https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt https://cdn.jsdelivr.net/gh/ErcinDedeoglu/proxies@main/proxies/https.txt
+ercin_socks4	txt	socks4	https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks4.txt https://cdn.jsdelivr.net/gh/ErcinDedeoglu/proxies@main/proxies/socks4.txt
+ercin_socks5	txt	socks5	https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks5.txt https://cdn.jsdelivr.net/gh/ErcinDedeoglu/proxies@main/proxies/socks5.txt
+geonode_api	geonode		https://proxylist.geonode.com/api/proxy-list?page=1&limit=500&sort_by=responseTime&sort_type=asc
+mtproxy_json	mtproxy_json		https://tgmtproxy.github.io/mtproxy/proxies.json
+mtproxy_txt	mtproxy_txt		https://tgmtproxy.github.io/mtproxy/proxies.txt
+proxyscrape_json	proxyscrape		https://cdn.jsdelivr.net/gh/proxyscrape/free-proxy-list@main/proxies/all/data.json https://raw.githubusercontent.com/proxyscrape/free-proxy-list/main/proxies/all/data.json
+proxyscrape_txt	txt		https://cdn.jsdelivr.net/gh/proxyscrape/free-proxy-list@main/proxies/all/data.txt https://raw.githubusercontent.com/proxyscrape/free-proxy-list/main/proxies/all/data.txt
+hproxy_json	hproxy		https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/all.json https://cdn.jsdelivr.net/gh/hproxy-com/free-proxy-list@main/all.json
+thespeedx_http	txt	http	https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt https://cdn.jsdelivr.net/gh/TheSpeedX/PROXY-List@master/http.txt
+thespeedx_socks_http	txt	http	https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt https://cdn.jsdelivr.net/gh/TheSpeedX/SOCKS-List@master/http.txt
+thespeedx_socks4	txt	socks4	https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks4.txt https://cdn.jsdelivr.net/gh/TheSpeedX/SOCKS-List@master/socks4.txt
+thespeedx_socks5	txt	socks5	https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks5.txt https://cdn.jsdelivr.net/gh/TheSpeedX/SOCKS-List@master/socks5.txt
+soli_http	txt	http	https://raw.githubusercontent.com/SoliSpirit/proxy-list/refs/heads/main/http.txt https://cdn.jsdelivr.net/gh/SoliSpirit/proxy-list@main/http.txt
+soli_https	txt	https	https://raw.githubusercontent.com/SoliSpirit/proxy-list/refs/heads/main/https.txt https://cdn.jsdelivr.net/gh/SoliSpirit/proxy-list@main/https.txt
+soli_socks4	txt	socks4	https://raw.githubusercontent.com/SoliSpirit/proxy-list/refs/heads/main/socks4.txt https://cdn.jsdelivr.net/gh/SoliSpirit/proxy-list@main/socks4.txt
+soli_socks5	txt	socks5	https://raw.githubusercontent.com/SoliSpirit/proxy-list/refs/heads/main/socks5.txt https://cdn.jsdelivr.net/gh/SoliSpirit/proxy-list@main/socks5.txt
+stormsia	txt		https://raw.githubusercontent.com/stormsia/proxy-list/main/working_proxies.txt https://cdn.jsdelivr.net/gh/stormsia/proxy-list@main/working_proxies.txt
+maxfeix	txt		https://cdn.jsdelivr.net/gh/maximilianfeix/free-proxy-list@main/all.txt https://raw.githubusercontent.com/maximilianfeix/free-proxy-list/main/all.txt
+monosans	txt		https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/all.txt https://cdn.jsdelivr.net/gh/monosans/proxy-list@main/proxies/all.txt
+sixyyn	txt	http	https://raw.githubusercontent.com/6yyn/free-proxy-list/main/proxies.txt https://cdn.jsdelivr.net/gh/6yyn/free-proxy-list@main/proxies.txt
+dpangestuw	txt		https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/All_proxies.txt https://cdn.jsdelivr.net/gh/dpangestuw/Free-Proxy@main/All_proxies.txt
+vpslab_all	txt	http	https://raw.githubusercontent.com/VPSLabCloud/VPSLab-Free-Proxy-List/main/all_proxies.txt https://cdn.jsdelivr.net/gh/VPSLabCloud/VPSLab-Free-Proxy-List@main/all_proxies.txt
+vpslab_elite	txt	http	https://raw.githubusercontent.com/VPSLabCloud/VPSLab-Free-Proxy-List/main/all_elite.txt https://cdn.jsdelivr.net/gh/VPSLabCloud/VPSLab-Free-Proxy-List@main/all_elite.txt

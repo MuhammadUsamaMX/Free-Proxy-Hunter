@@ -2,7 +2,7 @@
 
 [![fetch-and-verify](https://github.com/MuhammadUsamaMX/Free-Proxy-Hunter/actions/workflows/fetch.yml/badge.svg)](.github/workflows/fetch.yml)
 *Hourly-verified free proxy lists — fetched from 30+ public sources, merged
-into unique endpoints, and live handshade-verified before publication.*
+into unique endpoints, and live handshake-verified before publication.*
 
 Quick fetch one-liners point at this repo's raw outputs.
 

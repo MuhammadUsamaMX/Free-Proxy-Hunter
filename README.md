@@ -1,10 +1,10 @@
 # Free-Proxy-Hunter
 
-[![fetch-and-verify](https://github.com/OWNER/REPO/actions/workflows/fetch.yml/badge.svg)](.github/workflows/fetch.yml)
+[![fetch-and-verify](https://github.com/MuhammadUsamaMX/Free-Proxy-Hunter/actions/workflows/fetch.yml/badge.svg)](.github/workflows/fetch.yml)
 *Hourly-verified free proxy lists — fetched from 30+ public sources, merged
 into unique endpoints, and live handshade-verified before publication.*
 
-> Replace `OWNER/REPO` in the badge with your repo path after pushing.
+Quick fetch one-liners point at this repo's raw outputs.
 
 Every hour the workflow:
 
@@ -36,8 +36,8 @@ Only proxies that round-trip end-to-end end up in the lists.
 Quick fetch one-liners:
 
 ```bash
-curl -o http.txt   https://raw.githubusercontent.com/OWNER/REPO/main/proxies/http.txt
-curl -o all.json   https://raw.githubusercontent.com/OWNER/REPO/main/proxies/all.json
+curl -o http.txt   https://raw.githubusercontent.com/MuhammadUsamaMX/Free-Proxy-Hunter/main/proxies/http.txt
+curl -o all.json   https://raw.githubusercontent.com/MuhammadUsamaMX/Free-Proxy-Hunter/main/proxies/all.json
 ```
 
 ## How verification works

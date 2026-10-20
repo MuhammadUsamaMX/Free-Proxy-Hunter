@@ -6,7 +6,7 @@ into unique endpoints, and live handshake-verified before publication.*
 
 Quick fetch one-liners point at this repo's raw outputs.
 
-Every hour the workflow:
+Every 6 hours the workflow:
 
 1. **fetches** 30+ public proxy sources (scheme-lists, plain IP:port lists,
    geonode / proxyscrape / hproxy JSON APIs, MTProto feeds),

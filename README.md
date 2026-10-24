@@ -106,15 +106,16 @@ browse through may be untrustworthy — treat outputs as unreliable network
 hops, not as privacy tools. Verify against your own policies before use.
 
 <!-- DYN-STATS:BEGIN (auto-refreshed by fetch_update.py) -->
-**Last run:** 2026-10-24 16:31 UTC · **sources ok:** 31/31 · **unique endpoints found:** 231,312 · runtime 2434s
+**Last run:** 2026-10-24 21:22 UTC · **sources ok:** 31/31 · **unique endpoints found:** 231,816 · runtime 2431s
 
 | list | verified count |
 |---|---|
-| | `http.txt` | 2022 ||
-| `https.txt` | 276 ||
-| `socks5.txt` | 931 ||
-| `socks4.txt` | 654 | |
+| | `http.txt` | 2173 ||
+| `https.txt` | 342 ||
+| `socks5.txt` | 2186 ||
+| `socks4.txt` | 696 | |
 <!-- DYN-STATS:END -->
+
 
 
 
